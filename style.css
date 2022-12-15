@@ -3,5 +3,16 @@ body {
 }
 
 h1 {
+    color: gold;
+} 
+
+p {
     color: blue;
+}
+
+button {
+    width: 100px;
+    background-color: aqua;
+    font-weight: bold;
+    font-size: large;
 }
